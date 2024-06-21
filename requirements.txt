@@ -5,6 +5,7 @@
 branca
 matplotlib
 matplotlib-label-lines
+imgkit
 folium==0.14.0
 geopandas==0.12.2
 networkx
