@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 
-branca==0.6.0
+branca
 folium==0.14.0
 geopandas==0.12.2
 geopandas-base==0.12.2
