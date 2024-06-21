@@ -5,10 +5,9 @@
 branca
 folium==0.14.0
 geopandas==0.12.2
-geopandas-base==0.12.2
 geos==3.8.0
 geotiff==1.7.0
-networkx==2.8.4
+networkx
 pandas==1.5.3
 pytorch==2.0.0+cpu
 scikit-image==0.19.3
