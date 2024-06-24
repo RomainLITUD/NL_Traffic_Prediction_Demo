@@ -110,7 +110,7 @@ Av, Aq = get_directed_connection()
 predictability = get_predictability()
 linestrings = create_linestrings(links, lengths)
 
-selected_date = st.sidebar.date_input("Select a date", date(2019, 10, 11), min_value=min_date, max_value=max_date)
+selected_date = st.sidebar.date_input("Select a date", date(2019, 03, 18), min_value=min_date, max_value=max_date)
 
 year_i = str(selected_date.year)
 day_i = int(selected_date.strftime('%j'))
